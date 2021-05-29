@@ -1,4 +1,4 @@
 region = "us-east-1"
-user = "circleci-user"
+user = "MasterOfTheBus"
 label = "hashicorp.fun"
-app = "terramino"
+app = "learn-terraform-circleci"
